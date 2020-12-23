@@ -6,14 +6,14 @@ body {
     height: 100%;
 }
 
-.first-box {
+.box {
     border: 5px solid black;
     padding: 5px 10px 15px 20px;
     margin: 5px 10px 15px 20px;
     display: inline-block;
 }
 
-.first-box:first-child {
+.box:first-child {
     height: 300px;
     width: 50%;
 }
