@@ -1,0 +1,5 @@
+Create a layout using CSS Grid.
+Should have:
+A header on the top, covering all the width of the page.
+A sidebar and a main content section in the middle (sidebar covering about a third of page, main content about two thirds).
+A footer on the bottom, covering all the width of the page.
